@@ -1,6 +1,6 @@
 #安装
 
-npm install highcharts-react-official
+npm install
 
 
 #运行:
